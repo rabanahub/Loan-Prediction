@@ -50,13 +50,17 @@ Preprocessing the dataset
 Exploratory Data Analysis
 
 Creation of new attributes¶
+
 Log Transformation¶
 
 Coorelation Matrix
 
 Label Encoding
+
 Train-Test Split
+
 Hyperparameter tuning
+
 Confusion Matrix
 
 
