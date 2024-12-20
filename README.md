@@ -42,12 +42,18 @@ import warnings
 warnings.filterwarnings('ignore')
 
 **steps**
+
 Loading the dataset
+
 Preprocessing the dataset
+
 Exploratory Data Analysis
+
 Creation of new attributes¶
 Log Transformation¶
+
 Coorelation Matrix
+
 Label Encoding
 Train-Test Split
 Hyperparameter tuning
